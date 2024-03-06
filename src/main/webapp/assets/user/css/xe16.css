@@ -1,0 +1,54 @@
+#xe16cho {
+	/* position: relative; */
+	border: 3px solid #4F679B;
+	background: white;
+	width: 260px;
+	height: 500px;
+	border-radius: 20px;
+	float: left;
+	clear: right;
+}
+
+#img-16 {
+	position: relative;
+}
+
+#xe16cho .ghe {
+   
+}
+ 
+#xe16cho .hang0 {
+	top: 180px;
+}
+
+#xe16cho .hang1 {
+	top: 240px;
+}
+
+#xe16cho .hang2 {
+	top: 300px;
+}
+
+#xe16cho .hang3 {
+	top: 360px;
+}
+
+#xe16cho .hang4 {
+	top: 420px;
+}
+
+#xe16cho .cot0 {
+	left: 20px;
+}
+
+#xe16cho .cot1 {
+	left: 80px;
+}
+
+#xe16cho .cot2 {
+	left: 140px;
+}
+
+#xe16cho .cot3 {
+	left: 200px;
+}
